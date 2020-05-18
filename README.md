@@ -8,7 +8,7 @@ In that context it is often needed to clone issues from their JIRA to yours. Thi
 
 requirments
 
-pip3 install JIRA. 
+pip3 install jira. 
 
 usage
 
